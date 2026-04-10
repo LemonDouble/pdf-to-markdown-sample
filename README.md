@@ -13,6 +13,7 @@
 | `markitdown/` | [markitdown](https://github.com/microsoft/markitdown) | pdfminer 기반 텍스트 추출 |
 | `mineru-hybrid-zh/` | [MinerU](https://github.com/opendatalab/MinerU) v3.0.8 | hybrid-auto-engine, lang=ch (기본값) |
 | `mineru-hybrid-ko/` | [MinerU](https://github.com/opendatalab/MinerU) v3.0.8 | hybrid-auto-engine, lang=korean |
+| `mineru-pipeline-ko/` | [MinerU](https://github.com/opendatalab/MinerU) v3.0.8 | pipeline (전통 OCR/Layout), lang=korean |
 
 ## 참고
 
